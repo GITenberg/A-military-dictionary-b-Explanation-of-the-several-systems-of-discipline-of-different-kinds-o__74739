@@ -1,0 +1,43 @@
+_repo: A-military-dictionary-b-Explanation-of-the-several-systems-of-discipline-of-different-kinds-o__74739
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duane, William
+    aliases:
+    - Anti-Monopoly
+    - Camillus
+    - Disciple of Franklin
+    - Franklin, Disciple of
+    - Dwight, Jasper
+    birthdate: 1760
+    deathdate: 1835
+    gutenberg_agent_id: '57544'
+    url: http://www.gutenberg.org/2009/agents/57544
+    wikipedia: https://en.wikipedia.org/wiki/William_Duane_(journalist)
+description: ''
+gutenberg_issued: '2024-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74739'
+language: en
+pgterms:marc904: https://archive.org/details/militarydictiona00duanrich
+pgterms:marc905: 20180724004253duane
+pgterms:marc906: '1810'
+pgterms:marc907: US
+production_note: Brian Coe, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bWilliam Duane, $c1810.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A military dictionary : $b Explanation of the several systems of discipline
+  of different kinds of troops, infantry, artillery, and cavalry: the principles of
+  fortification, and all the modern improvements in the science of tactics: comprising
+  the pocket gunner, or little bombardier, the military regulations of the United
+  States: the weights, measures,  and monies of all nations: the technical terms and
+  phrases of the art of war in the  French language: particularly adapted to the use
+  of the military institutions of the United States'
+url: http://www.gutenberg.org/ebooks/74739
