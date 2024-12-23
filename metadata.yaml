@@ -1,5 +1,8 @@
 _repo: A-military-dictionary-b-Explanation-of-the-several-systems-of-discipline-of-different-kinds-o__74739
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74739-h/images/cover.jpg
 creator:
   author:
     agent_name: Duane, William
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57544
     wikipedia: https://en.wikipedia.org/wiki/William_Duane_(journalist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74739#A-military-dictionary-b-Explanation-of-the-several-systems-of-discipline-of-different-kinds-o_
 gutenberg_issued: '2024-11-14'
 gutenberg_type: Text
 identifiers:
